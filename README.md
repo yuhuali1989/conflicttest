@@ -1,10 +1,6 @@
 123
 567
 567
-567
-567
-567
-567
 # conflicttest
 # conflicttest
 # conflicttest
